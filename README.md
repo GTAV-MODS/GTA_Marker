@@ -23,6 +23,9 @@ So basicaly you only have to set a waypoint and it will draw you in screen the d
 Well, you will find all the sourcecode on the script.cpp file
 you can modify, contribute to the project to improve it but let the copyright.
 
+If you find any error when trying to build the project, 
+make sure to have ms vscode open in Administrator then change the output directory to your gta v directory file.
+
 
 ## Copyright
 Script made by **SuperCoolNinja** for **GTA V SOLO.**
