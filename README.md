@@ -27,6 +27,20 @@ If you find any error when trying to build the project,
 make sure to have ms vscode open in Administrator then change the output directory to your gta v directory file.
 
 
+
+![Visual](https://cdn.discordapp.com/attachments/554479498721099787/989598065373642782/unknown.png)
+
+
+![Visual](https://cdn.discordapp.com/attachments/554479498721099787/989598909536038953/unknown.png)
+
+
+![Visual](https://cdn.discordapp.com/attachments/554479498721099787/989599331092930560/unknown.png)
+
+
+![Visual](https://cdn.discordapp.com/attachments/554479498721099787/989599381856587786/unknown.png)
+
+
+
 ## Copyright
 Script made by **SuperCoolNinja** for **GTA V SOLO.**
 
