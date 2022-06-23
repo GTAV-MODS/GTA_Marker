@@ -2,6 +2,10 @@
 #include <cmath>
 #include <string>
 
+/*Copyright for (C) Alexander Blade (NATIVE TRAINER BASE CODE)*/
+/*Script made by SuperCoolNinja*/
+
+
 void drawText3DMarker(float coordX, float coordY, float playerZ, char* text)
 {
 	float x, y;
