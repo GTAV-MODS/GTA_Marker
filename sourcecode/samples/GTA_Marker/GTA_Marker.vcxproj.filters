@@ -1,12 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="script.cpp" />
-    <ClCompile Include="keyboard.cpp" />
+    <ClCompile Include="keyboard.cpp">
+      <Filter>resources</Filter>
+    </ClCompile>
+    <ClCompile Include="script.cpp">
+      <Filter>resources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>resources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="script.h" />
     <ClInclude Include="..\..\inc\types.h">
       <Filter>include</Filter>
     </ClInclude>
@@ -16,14 +21,25 @@
     <ClInclude Include="..\..\inc\natives.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="keyboard.h" />
     <ClInclude Include="..\..\inc\main.h">
       <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="keyboard.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="script.h">
+      <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="include">
       <UniqueIdentifier>{fe82bd4a-2d14-486a-8be5-8bf6b50a2414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{4ba82eb7-afd5-43a5-854c-cfcb568cd8e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{b7417a5c-7291-46a6-b8fe-8625b06d2068}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
