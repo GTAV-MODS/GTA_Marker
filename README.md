@@ -5,7 +5,7 @@
 ## Description : 
 It draw you a marker with the distance of your waypoint set. 
 <br>render like Arma 3. 
-<br><br>inspirating from arma 3 altis life.
+<br><br>inspirate from arma 3 altis life.
 
 ## Usage
 So basicaly you only have to set a waypoint and it will draw you in screen the distance.
