@@ -45,7 +45,6 @@
     <LinkIncremental>false</LinkIncremental>
     <TargetExt>.asi</TargetExt>
     <IntDir>tmp\$(Configuration)\</IntDir>
-    <OutDir>..\..\..\..\..\..\Desktop</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
