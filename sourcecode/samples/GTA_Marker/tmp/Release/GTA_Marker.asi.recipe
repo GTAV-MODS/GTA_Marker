@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Ninja\Desktop\GTA_Marker-test\sourcecode\x64\Release\GTA_Marker.asi</FullPath>
+      <FullPath>C:\Users\33767\Desktop\GTA_Marker\sourcecode\samples\GTA_Marker\%GAME_DIR%\GTA_Marker.asi</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

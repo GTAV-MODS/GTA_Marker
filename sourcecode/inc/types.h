@@ -45,4 +45,22 @@ typedef struct
 	float z;
 	DWORD _paddingz;
 } Vector3;
+
+inline Vector3 MultiplyVector3(const Vector3& vec, float scalar)
+{
+    Vector3 result;
+    result.x = vec.x * scalar;
+    result.y = vec.y * scalar;
+    result.z = vec.z * scalar;
+    return result;
+}
+
+inline Vector3 AddVector3(const Vector3& vec, float scalar)
+{
+    Vector3 result;
+    result.x = vec.x + scalar;
+    result.y = vec.y + scalar;
+    result.z = vec.z + scalar;
+    return result;
+}
 #pragma pack(pop)
